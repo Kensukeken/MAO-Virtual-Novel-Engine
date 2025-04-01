@@ -3,12 +3,13 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
+
 define e = Character("Eileen")
-
-
-# The game starts here.
+define k = Character("Kenzy")
+define m = Character('Me', color="#c8c8ff")
 
 label start:
+
 
     # Show a background. This uses a placeholder by default, but you can
     # add a file (named either "bg room.png" or "bg room.jpg") to the
@@ -24,9 +25,19 @@ label start:
 
     # These display lines of dialogue.
 
-    e "You've created a new Ren'Py game."
+    e "Hello!"
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    k "Hello!"
+
+    e "Hi there! How was class?"
+
+    k "Good..."
+
+    "I can't bring myself to admit that it all went in one ear and out the other."
+
+    k "Are you going home now? Wanna walk back with me?"
+
+    m "Sure!"
 
     # This ends the game.
 
