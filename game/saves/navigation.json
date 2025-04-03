@@ -666,31 +666,31 @@
                 "game/options.rpy",
                 153
             ],
-            "rikano": [
+            "r": [
                 "game/script.rpy",
                 1
             ],
-            "itsuki": [
+            "i": [
                 "game/script.rpy",
                 2
             ],
-            "kaoru": [
+            "k": [
                 "game/script.rpy",
                 3
             ],
-            "tsubasa": [
+            "t": [
                 "game/script.rpy",
                 4
             ],
-            "nanase": [
+            "n": [
                 "game/script.rpy",
                 5
             ],
-            "souta": [
+            "y": [
                 "game/script.rpy",
                 6
             ],
-            "masaru": [
+            "m": [
                 "game/script.rpy",
                 7
             ],
@@ -1526,7 +1526,7 @@
         ],
         "info": {
             "info": {},
-            "time": 1743623545.3388727,
+            "time": 1743708203.9483805,
             "name": "MAO",
             "version": "1.0"
         }

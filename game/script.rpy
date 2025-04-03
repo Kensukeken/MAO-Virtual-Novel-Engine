@@ -69,7 +69,7 @@ label start:
         
         t "What is this?"
         
-        "r Ayatsuki checks in"
+        " Ayatsuki checks in"
         
         menu:
             "Read the text.":
@@ -89,7 +89,7 @@ label start:
         label discover:
             i "Ahahahahah"
             
-            "k shocked fucking idk"
+            "Kaoru shocked fucking idk"
             return
         
         return
